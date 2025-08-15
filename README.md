@@ -1,7 +1,6 @@
-# Linear Regression Projects
+# Linear Regression Model
 
-Projects Included:
-1. Linear Regression Model A with Application (Chirps per minute and temperature)
+Linear Regression Model A with Application (Chirps per minute and temperature)
 
 Linear Regression Model A Project Overview:
 <img width="659" height="298" alt="Screenshot 2025-08-15 114836" src="https://github.com/user-attachments/assets/1a8ce76f-3df1-4d24-bc99-ff2723661db2" />
